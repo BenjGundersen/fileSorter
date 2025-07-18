@@ -36,3 +36,23 @@ To run from source:
 
 ```bash
 python file_sorter_gui.py
+```
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is provided **as-is** with no guarantees.
+
+While care has been taken to ensure it works safely, **BFES LLC is not responsible for any lost, moved, or damaged files** resulting from use of this application.
+
+Always back up important data before running any file organization tools.
+
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
